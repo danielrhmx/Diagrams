@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diagrams</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="export">Export</string>
+    <string name="red">RED</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="gray">Gray</string>
+    <string name="Orange">Orange</string>
+    <string name="white">White</string>
+    <string name="Yellow">yellow</string>
+    <string name="text">text</string>
+</resources>
